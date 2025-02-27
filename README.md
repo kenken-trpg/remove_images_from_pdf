@@ -5,8 +5,6 @@
 
 PDFファイルから画像を完全削除しつつテキスト構造を保持するPythonツール。機密画像の除去やファイル軽量化に最適です。
 
-![Workflow](https://via.placeholder.com/800x200.png?text=PDF+Processing+Workflow+Diagram)
-
 ## 🚀 特徴
 - **画像完全削除** - XObjectを検出しNullObjectで置換
 - **スマート圧縮** - pikepdfによるストリーム最適化
