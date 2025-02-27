@@ -2,7 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
-PDFファイルから画像を完全削除しつつテキスト構造を保持するPythonツール。機密画像の除去やファイル軽量化に最適です。
+PDFファイルから画像を完全削除しつつテキスト構造を保持するPythonツール。画像の除去やファイル軽量化に最適です。
 
 ## 🚀 特徴
 - **画像完全削除** - XObjectを検出しNullObjectで置換
