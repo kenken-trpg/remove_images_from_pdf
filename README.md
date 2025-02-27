@@ -43,8 +43,8 @@ for file in ./documents/*.pdf; do
 done
 ```
 # 技術的詳細
-```mermaid
 ### 画像削除のメカニズム
+```mermaid
 graph LR
     A[XObject検出] --> B[NullObject置換]
     B --> C[参照切りのガベージコレクション]
